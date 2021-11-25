@@ -1,4 +1,4 @@
-# Leilão com Cucumber  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.es.md)
+# Escola  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.es.md)
 
 ![](https://img.shields.io/github/issues/ivanfsilva/rh)
 ![](https://img.shields.io/github/forks/ivanfsilva/rh)
@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/ivanfsilva/rh)
 
 
-![](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
+![](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-red)
 
 ## Indice
 
@@ -20,7 +20,7 @@
 
 ## 🔖&nbsp; Sobre o App
 
-Aplicativo para praticar testes de aceitação com Cucumber. 
+Aplicativo para praticar clean architecture. 
 
 
 <h4 align="center"> 
