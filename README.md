@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/ivanfsilva/rh)
 
 
-![](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-red)
+![](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
 
 ## Indice
 
@@ -24,9 +24,11 @@ Aplicativo para praticar clean architecture.
 
 O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros colegas para serem alunos.
 
-<h4 align="center"> 
-	🚧  Escola - Release 1.0 em desenvolvimento...  🚧
-</h4>
+[comment]: <> (<h4 align="center"> )
+
+[comment]: <> (	🚧  Escola - Release 1.0 em desenvolvimento...  🚧)
+
+[comment]: <> (</h4>)
 
 
 ### Regra de Negócio
