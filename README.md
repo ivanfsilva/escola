@@ -30,6 +30,8 @@ Aplicativo para praticar testes de aceitação com Cucumber.
 
 ### Regra de Negócio
 
+* Um aluno pode indicar alguém para ser aluno
+* 
 
 ---
 
