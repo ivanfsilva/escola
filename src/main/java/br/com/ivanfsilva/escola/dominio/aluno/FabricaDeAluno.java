@@ -1,4 +1,4 @@
-package br.com.ivanfsilva.escola.aluno;
+package br.com.ivanfsilva.escola.dominio.aluno;
 
 public class FabricaDeAluno {
 

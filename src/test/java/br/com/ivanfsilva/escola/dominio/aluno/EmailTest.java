@@ -1,8 +1,7 @@
-package br.com.ivanfsilva.escola.aluno;
+package br.com.ivanfsilva.escola.dominio.aluno;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import br.com.ivanfsilva.escola.aluno.Email;
 import org.junit.jupiter.api.Test;
 
 public class EmailTest {

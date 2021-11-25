@@ -1,6 +1,6 @@
-package br.com.ivanfsilva.escola.indicacao;
+package br.com.ivanfsilva.escola.dominio.indicacao;
 
-import br.com.ivanfsilva.escola.aluno.Aluno;
+import br.com.ivanfsilva.escola.dominio.aluno.Aluno;
 
 import java.time.LocalDateTime;
 
