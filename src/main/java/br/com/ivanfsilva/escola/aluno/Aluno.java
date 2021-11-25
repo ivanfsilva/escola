@@ -1,4 +1,4 @@
-package escola;
+package br.com.ivanfsilva.escola.aluno;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ public class Aluno {
 
     private Email email;
 
-    private List<Telefone> telefones = new ArrayList<>();
+    private List< Telefone > telefones = new ArrayList<>();
 
     public Aluno( Cpf cpf, String nome, Email email ) {
         this.cpf = cpf;
@@ -26,7 +26,7 @@ public class Aluno {
         return cpf;
     }
 
-    public void setCpf(Cpf cpf) {
+    public void setCpf( Cpf cpf ) {
         this.cpf = cpf;
     }
 
@@ -34,7 +34,7 @@ public class Aluno {
         return nome;
     }
 
-    public void setNome(String nome) {
+    public void setNome( String nome ) {
         this.nome = nome;
     }
 
@@ -42,7 +42,7 @@ public class Aluno {
         return email;
     }
 
-    public void setEmail(Email email) {
+    public void setEmail( Email email ) {
         this.email = email;
     }
 }

@@ -1,4 +1,4 @@
-package escola;
+package br.com.ivanfsilva.escola.aluno;
 
 public class Email {
 

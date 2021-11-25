@@ -1,4 +1,6 @@
-package escola;
+package br.com.ivanfsilva.escola.indicacao;
+
+import br.com.ivanfsilva.escola.aluno.Aluno;
 
 import java.time.LocalDateTime;
 
@@ -8,7 +10,7 @@ public class Indicacao {
     private Aluno indicante;
     private LocalDateTime dataIndicacao;
 
-    public Indicacao(Aluno indicado, Aluno indicante) {
+    public Indicacao( Aluno indicado, Aluno indicante ) {
         this.indicado = indicado;
         this.indicante = indicante;
         this.dataIndicacao = LocalDateTime.now();
