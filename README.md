@@ -47,17 +47,10 @@ O que foi utilizado na construção do projeto:
 * [Java](https://dev.java/)
 
 
-* [ThymeLeaf](https://www.thymeleaf.org/)
-
-
-* [H2](https://h2database.com/html/main.html)
-
-
 * [JUnit](https://junit.org/junit5/)
 
 
-* [Cucumber](https://cucumber.io/)
-
+* [Arquitetura Limpa](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637863080&sr=8-3)
 
 </h3>
 
@@ -67,14 +60,14 @@ O que foi utilizado na construção do projeto:
 #### Clonar o repositório
 
 ```bash
-    $ git clone https://github.com/ivanfsilva/leilao-cucumber.git
+    $ git clone https://github.com/ivanfsilva/escola.git
 ```
 
 ## Como rodar a aplicação
 
 ## Histórico de lançamentos
   
-* [1.0 - PROJETO INICIAL (alr)](https://github.com/ivanfsilva/leilao-cucumber/releases/tag/v1.0):
+* [1.0 - PROJETO INICIAL (alr)](https://github.com/ivanfsilva/escola/releases/tag/v1.0):
   * Aplicação para praticar clean architecture
   
   
