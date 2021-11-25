@@ -22,6 +22,7 @@
 
 Aplicativo para praticar clean architecture. 
 
+O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros colegas para serem alunos.
 
 <h4 align="center"> 
 	🚧  Escola - Release 1.0 em desenvolvimento...  🚧
