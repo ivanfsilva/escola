@@ -24,7 +24,7 @@ Aplicativo para praticar clean architecture.
 
 
 <h4 align="center"> 
-	🚧  Leilão - Release 1.0 em desenvolvimento...  🚧
+	🚧  Escola - Release 1.0 em desenvolvimento...  🚧
 </h4>
 
 
@@ -71,22 +71,10 @@ O que foi utilizado na construção do projeto:
 
 ## Como rodar a aplicação
 
-Pelo IntelliJ:
-
-![](img-readme/intellij-profile-test.png)
-
-Pelo Eclipse sem o plugin do STS Tools:
-
-![](img-readme/eclipse-sem-sts-tools.png)
-
-Pelo Eclipse com o plugin do STS Tools instalado:
-
-![](img-readme/eclipse-com-sts-tools.png)
-
 ## Histórico de lançamentos
   
 * [1.0 - PROJETO INICIAL (alr)](https://github.com/ivanfsilva/leilao-cucumber/releases/tag/v1.0):
-  * Aplicação para praticar testes de aceitação utilizando Cucumber
+  * Aplicação para praticar clean architecture
   
   
 ## Autor
