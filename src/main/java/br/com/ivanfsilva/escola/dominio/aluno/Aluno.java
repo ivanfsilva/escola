@@ -8,6 +8,7 @@ public class Aluno {
     private Cpf cpf;
     private String nome;
 
+    private String senha;
     private Email email;
 
     private List< Telefone > telefones = new ArrayList<>();
