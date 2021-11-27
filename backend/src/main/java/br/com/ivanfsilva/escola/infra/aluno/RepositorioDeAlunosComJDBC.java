@@ -54,7 +54,7 @@ public class RepositorioDeAlunosComJDBC implements RepositorioDeAlunos {
             ResultSet rs = ps.executeQuery();
             boolean encontrou = rs.next();
             if (!encontrou) {
-                throw new AlunoNaoEncontrado(cpf);
+                throw new AlunoNaoEncontradoException(cpf);
             }
 
             String nome = rs.getString( "nome" );

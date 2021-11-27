@@ -1,10 +1,10 @@
 package br.com.ivanfsilva.escola.dominio.aluno;
 
-public class AlunoNaoEncontrado extends RuntimeException {
+public class AlunoNaoEncontradoException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
 
-	public AlunoNaoEncontrado(Cpf cpf) {
+	public AlunoNaoEncontradoException(Cpf cpf) {
 		super("Aluno nao encontrado com CPF: " + cpf.getNumero());
 	}
 

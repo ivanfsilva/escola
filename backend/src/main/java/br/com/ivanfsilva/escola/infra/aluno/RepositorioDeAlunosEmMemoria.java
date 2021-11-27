@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import br.com.ivanfsilva.escola.dominio.aluno.Aluno;
-import br.com.ivanfsilva.escola.dominio.aluno.AlunoNaoEncontrado;
+import br.com.ivanfsilva.escola.dominio.aluno.AlunoNaoEncontradoException;
 import br.com.ivanfsilva.escola.dominio.aluno.Cpf;
 import br.com.ivanfsilva.escola.dominio.aluno.RepositorioDeAlunos;
 
@@ -22,7 +22,7 @@ public class RepositorioDeAlunosEmMemoria implements RepositorioDeAlunos {
 		return this.matriculados.stream()
 				.filter( a -> a.getCpf().equals( cpf.getNumero() ) )
 				.findFirst()
-				.orElseThrow( () -> new AlunoNaoEncontrado( cpf ) );
+				.orElseThrow( () -> new AlunoNaoEncontradoException( cpf ) );
 	}
 
 	@Override
