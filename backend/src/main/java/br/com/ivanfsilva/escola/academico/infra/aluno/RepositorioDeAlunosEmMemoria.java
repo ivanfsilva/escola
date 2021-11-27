@@ -5,7 +5,7 @@ import java.util.List;
 
 import br.com.ivanfsilva.escola.academico.dominio.aluno.Aluno;
 import br.com.ivanfsilva.escola.academico.dominio.aluno.AlunoNaoEncontradoException;
-import br.com.ivanfsilva.escola.academico.dominio.aluno.Cpf;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import br.com.ivanfsilva.escola.academico.dominio.aluno.RepositorioDeAlunos;
 
 public class RepositorioDeAlunosEmMemoria implements RepositorioDeAlunos {

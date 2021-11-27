@@ -1,6 +1,7 @@
 package br.com.ivanfsilva.escola.academico.dominio.aluno;
 
 import br.com.ivanfsilva.escola.academico.dominio.Evento;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 
 import java.time.LocalDateTime;
 

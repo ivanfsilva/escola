@@ -2,7 +2,7 @@ package br.com.ivanfsilva.escola.academico.aplicacao.aluno.matricular;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import br.com.ivanfsilva.escola.academico.dominio.aluno.Cpf;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import br.com.ivanfsilva.escola.academico.dominio.PublicadorDeEventos;
 import org.junit.jupiter.api.Test;
 

@@ -1,7 +1,7 @@
 package br.com.ivanfsilva.escola.academico.aplicacao.aluno.matricular;
 
 import br.com.ivanfsilva.escola.academico.dominio.aluno.Aluno;
-import br.com.ivanfsilva.escola.academico.dominio.aluno.Cpf;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import br.com.ivanfsilva.escola.academico.dominio.aluno.Email;
 
 public class MatricularAlunoDTO {

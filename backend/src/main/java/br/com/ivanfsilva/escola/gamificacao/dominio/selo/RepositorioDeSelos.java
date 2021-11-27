@@ -1,6 +1,6 @@
 package br.com.ivanfsilva.escola.gamificacao.dominio.selo;
 
-import br.com.ivanfsilva.escola.academico.dominio.aluno.Cpf;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package br.com.ivanfsilva.escola.gamificacao.infra.selos;
 
-import br.com.ivanfsilva.escola.academico.dominio.aluno.Cpf;
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import br.com.ivanfsilva.escola.gamificacao.dominio.selo.RepositorioDeSelos;
 import br.com.ivanfsilva.escola.gamificacao.dominio.selo.Selo;
 

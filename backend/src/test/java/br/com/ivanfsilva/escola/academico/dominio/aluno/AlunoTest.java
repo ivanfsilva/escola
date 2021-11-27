@@ -3,6 +3,7 @@ package br.com.ivanfsilva.escola.academico.dominio.aluno;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,5 +1,6 @@
 package br.com.ivanfsilva.escola.academico.dominio.aluno;
 
+import br.com.ivanfsilva.escola.shared.dominio.Cpf;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
