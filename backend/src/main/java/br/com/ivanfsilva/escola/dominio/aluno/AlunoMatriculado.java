@@ -22,4 +22,8 @@ public class AlunoMatriculado implements Evento {
     public LocalDateTime getMomento() {
         return momento;
     }
+
+    public Cpf getCpfDoAluno() {
+        return cpfDoAluno;
+    }
 }
