@@ -20,7 +20,7 @@ public class Aluno {
     }
 
     public void adicionarTelefone( String ddd, String numero ) {
-        if ( telefones.size() == 3 ) {
+        if ( telefones.size() >= 2 ) {
             throw new QuantidadeMaximaDeTelefonesException();
         }
         this.telefones.add( new Telefone( ddd, numero ) );
