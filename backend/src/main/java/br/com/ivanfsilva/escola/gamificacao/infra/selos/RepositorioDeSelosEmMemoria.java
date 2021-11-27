@@ -21,7 +21,7 @@ public class RepositorioDeSelosEmMemoria implements RepositorioDeSelos {
     public List<Selo> selosDoAlunoDeCPF(Cpf cpf) {
         return this.selos
                 .stream()
-                .filter( s -> s.getCpfDoAluno().getNumero() )
+                .filter( s -> s.getCpfDoAluno().equals( cpf ) )
                 .collect( Collectors.toList() );
     }
 }
