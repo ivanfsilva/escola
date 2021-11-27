@@ -26,7 +26,7 @@ O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros
 
 <h4 align="center"> 
 
-	🚧  Escola - Release 2.0 em desenvolvimento...  🚧
+	🚧  Escola - Release 3.0 em desenvolvimento...  🚧
 
 </h4>
 
@@ -35,7 +35,7 @@ O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros
 
 * Um aluno pode indicar alguém para ser aluno
 * O sistema deve guardar essa relação e a data da indicação, considerando o momento do cadastro
-
+* Um aluno pode cadastrar no máximo 2 telefones
 ---
 
 
