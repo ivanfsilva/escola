@@ -14,7 +14,7 @@ public class MatricularAlunoTest {
     void alunoDeveriaSerPersistido() {
         // MOCK -> Mockito
         RepositorioDeAlunosEmMemoria repositorio = new RepositorioDeAlunosEmMemoria();
-        MatricularAluno useCase = new MatricularAluno(repositorio);
+        MatricularAluno useCase = new MatricularAluno(repositorio, publicador);
 
         MatricularAlunoDTO dados = new MatricularAlunoDTO(
                 "Fulano",

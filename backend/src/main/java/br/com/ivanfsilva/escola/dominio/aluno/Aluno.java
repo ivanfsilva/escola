@@ -26,8 +26,8 @@ public class Aluno {
         this.telefones.add( new Telefone( ddd, numero ) );
     }
 
-    public String getCpf() {
-        return cpf.getNumero();
+    public Cpf getCpf() {
+        return cpf;
     }
 
     public void setCpf( Cpf cpf ) {
