@@ -1,4 +1,4 @@
-package br.com.ivanfsilva.escola.academico.dominio;
+package br.com.ivanfsilva.escola.shared.dominio.evento;
 
 public abstract class Ouvinte {
 

@@ -1,7 +1,7 @@
 package br.com.ivanfsilva.escola.academico.dominio.aluno;
 
-import br.com.ivanfsilva.escola.academico.dominio.Evento;
-import br.com.ivanfsilva.escola.academico.dominio.Ouvinte;
+import br.com.ivanfsilva.escola.shared.dominio.evento.Evento;
+import br.com.ivanfsilva.escola.shared.dominio.evento.Ouvinte;
 
 import java.time.format.DateTimeFormatter;
 

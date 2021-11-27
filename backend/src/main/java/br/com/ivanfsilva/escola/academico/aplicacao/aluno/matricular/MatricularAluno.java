@@ -1,7 +1,7 @@
 package br.com.ivanfsilva.escola.academico.aplicacao.aluno.matricular;
 
 import br.com.ivanfsilva.escola.academico.dominio.aluno.RepositorioDeAlunos;
-import br.com.ivanfsilva.escola.academico.dominio.PublicadorDeEventos;
+import br.com.ivanfsilva.escola.shared.dominio.evento.PublicadorDeEventos;
 import br.com.ivanfsilva.escola.academico.dominio.aluno.Aluno;
 import br.com.ivanfsilva.escola.academico.dominio.aluno.AlunoMatriculado;
 
