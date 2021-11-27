@@ -36,6 +36,7 @@ O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros
 * Um aluno pode indicar alguém para ser aluno
 * O sistema deve guardar essa relação e a data da indicação, considerando o momento do cadastro
 * Um aluno pode cadastrar no máximo 2 telefones
+* Toda a vez que um aluno atinge uma ação, ele ganha um selo, uma medalha. 
 ---
 
 
