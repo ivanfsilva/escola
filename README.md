@@ -24,11 +24,11 @@ Aplicativo para praticar clean architecture.
 
 O sistema simula uma escola onde matriculamos um aluno e ele pode indicar outros colegas para serem alunos.
 
-[comment]: <> (<h4 align="center"> )
+<h4 align="center"> 
 
-[comment]: <> (	🚧  Escola - Release 1.0 em desenvolvimento...  🚧)
+	🚧  Escola - Release 2.0 em desenvolvimento...  🚧
 
-[comment]: <> (</h4>)
+</h4>
 
 
 ### Regra de Negócio
@@ -54,6 +54,9 @@ O que foi utilizado na construção do projeto:
 
 * [Arquitetura Limpa](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1637863080&sr=8-3)
 
+
+* [Domain-Driven Design: Atacando as complexidades no coração do software](https://www.amazon.com.br/Domain-Driven-Design-Eric-Evans/dp/8550800651)
+
 </h3>
 
 
@@ -68,6 +71,13 @@ O que foi utilizado na construção do projeto:
 ## Como rodar a aplicação
 
 ## Histórico de lançamentos
+
+[comment]: <> (* [3.0 - PROJETO ATUALIZADO &#40;alr&#41;]&#40;https://github.com/ivanfsilva/escola/releases/tag/v3.0&#41;:)
+
+[comment]: <> (  * Atualização para praticar DDD - Domain Driven Design)
+
+* [2.0 - PROJETO ATUALIZADO](https://github.com/ivanfsilva/escola/releases/tag/v2.0):
+  * Atualização para o padrão monorepo
   
 * [1.0 - PROJETO INICIAL (alr)](https://github.com/ivanfsilva/escola/releases/tag/v1.0):
   * Aplicação para praticar clean architecture
